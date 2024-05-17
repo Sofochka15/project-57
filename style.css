@@ -1,0 +1,10 @@
+.box{
+    height: 550px;
+    width: 550px;
+    background-color: #f9dfdf;
+    border: 1PX solid #f00 ;
+}
+h4{
+    color: #f00;
+    padding: 80px 0 0 103px;
+}
